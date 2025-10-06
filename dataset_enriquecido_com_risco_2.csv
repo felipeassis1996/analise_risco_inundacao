@@ -1,0 +1,32 @@
+﻿linhas;id;cidade;local;latitude;longitude;tipo_ponto;status_inundacao;fonte_dado;altitude_m;altitude_m_api;fonte_altitude;dist_rio_m;uos;classificacao
+0;1;Belford Roxo;Lote XV (centro do bairro);-22,7305;-43,3448;Histórico;1;Notícia G1;15;36;Open-Elevation (SRTM ~30 m);3.2;Urbano, impermeável;Alto
+1;2;Belford Roxo;Parque Fluminense;-22,73276135;-43,31698;Histórico;1;Defesa Civil RJ;9;7;Open-Elevation (SRTM ~30 m);1780.0;Urbano, impermeável;Médio
+2;3;Belford Roxo;Centro (próx. Rio Botas);-22,7645;-43,3955;Histórico;1;Notícia Local;8;19;Open-Elevation (SRTM ~30 m);980.0;Vegetação;Alto
+3;4;Belford Roxo;Andrade Araújo (área de risco);-22,7561;-43,385;Histórico;1;Mapeamento DRM-RJ;4;41;Open-Elevation (SRTM ~30 m);1090.0;Vegetação;Médio
+4;6;Belford Roxo;Areia Branca, Avenida Automóvel Clube;-22,7692544;-43,36117;Histórico;1;GPT Search;18;9;Open-Elevation (SRTM ~30 m);650.0;Urbano, impermeável;Médio
+5;7;Belford Roxo;Santa Amélia, Rua Celi;-22,759;-43,375;Histórico;1;GPT Search;3;8;Open-Elevation (SRTM ~30 m);600.0;Urbano, impermeável;Alto
+6;8;Belford Roxo;Xavantes, Avenida Piam;-22,768;-43,382;Histórico;1;GPT Search;18;6;Open-Elevation (SRTM ~30 m);280.0;Urbano, impermeável;Alto
+7;9;Belford Roxo;São Vicente, Rua Carolina;-22,775;-43,398;Histórico;1;GPT Search;18;10;Open-Elevation (SRTM ~30 m);220.0;Urbano, impermeável;Alto
+8;10;Belford Roxo;Parque São José, Rua da Feira;-22,753;-43,405;Histórico;1;GPT Search;5;35;Open-Elevation (SRTM ~30 m);780.0;Urbano, impermeável;Alto
+9;11;Belford Roxo;Pauline, Rua Abel de Alvarenga;-22,738;-43,421;Histórico;1;GPT Search;6;16;Open-Elevation (SRTM ~30 m);408.0;Urbano, impermeável;Alto
+10;12;Belford Roxo;Bairro Santa Maria (área elevada);-22,7262;-43,4075;Amostrado;0;GIS (Heurística);18;55;Open-Elevation (SRTM ~30 m);1170.0;Urbano, impermeável;Baixo
+11;13;Belford Roxo;Bairro Bom Pastor (terreno alto);-22,7515;-43,4188;Amostrado;0;GIS (Heurística);6;14;Open-Elevation (SRTM ~30 m);800.0;Urbano, impermeável;Médio
+12;14;Belford Roxo;Bairro São Bernardo (longe de rios);-22,7381;-43,435;Amostrado;0;GIS (Heurística);4;15;Open-Elevation (SRTM ~30 m);403.0;Urbano, impermeável;Médio
+13;15;Belford Roxo;Bairro Itaipu (próx. limites da cidade);-22,7051;-43,3791;Amostrado;0;GIS (Heurística);10;32;Open-Elevation (SRTM ~30 m);400.0;Vegetação;Médio
+14;16;Belford Roxo;Jardim Glaucia (terreno alto);-22,7589;-43,4312;Amostrado;0;GIS (Heurística);18;22;Open-Elevation (SRTM ~30 m);353.0;Urbano, impermeável;Médio
+15;17;Belford Roxo;Bairro das Graças (área elevada);-22,7651;-43,4233;Amostrado;0;GIS (Heurística);3;18;Open-Elevation (SRTM ~30 m);770.0;Urbano, impermeável;Médio
+16;18;Belford Roxo;Bairro Redentor (terreno alto);-22,7758;-43,415;Amostrado;0;GIS (Heurística);18;24;Open-Elevation (SRTM ~30 m);774.0;Urbano, impermeável;Baixo
+17;19;Belford Roxo;Bairro Hiterland (longe de rios);-22,72;-43,391;Amostrado;0;GIS (Heurística);15;34;Open-Elevation (SRTM ~30 m);618.0;Vegetação;Baixo
+18;21;Belford Roxo;Bairro Miguel Couto (limite oeste);-22,7845;-43,4401;Amostrado;0;GIS (Heurística);7;184;Open-Elevation (SRTM ~30 m);740.0;Vegetação;Médio
+19;22;Belford Roxo;Bairro Shangri-lá (terreno alto);-22,7325;-43,4011;Amostrado;0;GIS (Heurística);3;51;Open-Elevation (SRTM ~30 m);800.0;Urbano, impermeável;Médio
+20;23;Belford Roxo;Bairro Wona (área alta);-22,7228;-43,4225;Amostrado;0;GIS (Heurística);12;52;Open-Elevation (SRTM ~30 m);454.0;Urbano, impermeável;Médio
+21;24;Belford Roxo;Parque Amorim (terreno alto);-22,7121;-43,418;Amostrado;0;GIS (Heurística);11;42;Open-Elevation (SRTM ~30 m);970.0;Urbano, impermeável;Baixo
+22;25;Belford Roxo;Bairro Maringá (longe de rios);-22,7093;-43,4055;Amostrado;0;GIS (Heurística);11;19;Open-Elevation (SRTM ~30 m);980.0;Vegetação;Baixo
+23;26;Belford Roxo;Bairro Vale do Ipê (área elevada);-22,7801;-43,4281;Amostrado;0;GIS (Heurística);16;21;Open-Elevation (SRTM ~30 m);780.0;Urbano, impermeável;Baixo
+24;27;Belford Roxo;Bairro Jardim do Ipê;-22,7885;-43,4313;Amostrado;0;GIS (Heurística);7;24;Open-Elevation (SRTM ~30 m);297.0;Urbano, impermeável;Médio
+25;28;Belford Roxo;Bairro Roseiral (longe de rios);-22,7159;-43,4377;Amostrado;0;GIS (Heurística);17;29;Open-Elevation (SRTM ~30 m);1170.0;Urbano, impermeável;Baixo
+26;29;Belford Roxo;Bairro Santa Tereza (terreno alto);-22,7423;-43,4452;Amostrado;0;GIS (Heurística);16;23;Open-Elevation (SRTM ~30 m);1003.0;Urbano, impermeável;Baixo
+27;30;Belford Roxo;Bairro Jardim Ideal;-22,7255;-43,4489;Amostrado;0;GIS (Heurística);18;21;Open-Elevation (SRTM ~30 m);1300.0;Urbano, impermeável;Baixo
+28;31;Belford Roxo;Bairro Barro Vermelho;-22,7792;-43,4021;Amostrado;0;GIS (Heurística);18;9;Open-Elevation (SRTM ~30 m);220.0;Urbano, impermeável;Médio
+29;32;Belford Roxo;Bairro Areia Branca (parte alta);-22,7488;-43,3515;Amostrado;0;GIS (Heurística);6;74;Open-Elevation (SRTM ~30 m);1200.0;Urbano, impermeável;Baixo
+30;33;Belford Roxo;Bairro Prata (longe de rios);-22,7441;-43,4111;Amostrado;0;GIS (Heurística);18;10;Open-Elevation (SRTM ~30 m);150.0;Urbano, impermeável;Médio
